@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/backseat-of-a-ford-memory/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Backseat of a Ford Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backseat-of-a-ford-memory/) |
+| **Get License** | [Music Rights & Licensing for Backseat of a Ford Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backseat-of-a-ford-memory/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `dd2bc77fa3c28a98c8d53ff82e10ed7a6b895c0a781ea57ecae8940f439049ee` |
 | **Timestamp** | May 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
