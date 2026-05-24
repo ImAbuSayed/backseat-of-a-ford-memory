@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/backseat-of-a-ford-memory/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Backseat of a Ford Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backseat-of-a-ford-memory/) |
+| **Get License** | [Commercial Licensing for Backseat of a Ford Memory](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/backseat-of-a-ford-memory/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Subproject commit 1cc44e46ce9f2181b41e0a0046647acba94ebb97
+> Midnight shadows dancing on the leather seat
+> Every time you look at me I feel the heat
+> Your silhouette is painted in the dash light glow
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
